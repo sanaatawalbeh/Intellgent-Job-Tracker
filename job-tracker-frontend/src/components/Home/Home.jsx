@@ -22,7 +22,6 @@ export default function Home() {
         mb: 8,
       }}
     >
-      {/* Hero Section */}
       <Box
         sx={{
           display: "grid",
@@ -39,6 +38,7 @@ export default function Home() {
             letterSpacing: "-0.02em",
             fontSize: { xs: "28px", md: "56px" },
             color: "text.primary",
+            mt:20,
           }}
         >
           Find your{" "}

@@ -97,7 +97,8 @@ export default function Register() {
         justifyContent: "center",
         alignItems: "center",
         minHeight: "80vh",
-        mt: 8,
+        mt: 10,
+
       }}
     >
       <Paper
@@ -109,6 +110,8 @@ export default function Register() {
           display: "flex",
           flexDirection: "column",
           gap: 2.5,
+          mt:10,
+          mb:10,
         }}
       >
         <Typography variant="h4" align="center" fontWeight={700} sx={{ mb: 1 }}>

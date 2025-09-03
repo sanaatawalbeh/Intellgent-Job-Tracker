@@ -86,7 +86,8 @@ export default function Login() {
         justifyContent: "center",
         alignItems: "center",
         minHeight: "80vh",
-        mt: 8,
+        mt: 10,
+        mb:10
       }}
     >
       <Paper
